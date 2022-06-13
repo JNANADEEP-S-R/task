@@ -4,3 +4,7 @@ main subjects
 -objects oriented programmimg
 -java
 -data structures
+-algorithms
+
+
+thank you
