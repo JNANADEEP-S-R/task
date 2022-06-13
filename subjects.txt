@@ -6,5 +6,8 @@ main subjects
 -data structures
 -algorithms
 
+-mpmp
+-operating system
+
 
 thank you
