@@ -1,0 +1,6 @@
+Welcome to engineering
+
+main subjects
+-objects oriented programmimg
+-java
+-data structures
